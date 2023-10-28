@@ -1,4 +1,1 @@
-안녕하세요.
-경북대학교
-23학번
-서형철입니다.
+Undergraduate, Department of Computer Science & Engineering, Kyungpook Nat'l Univ., Daegu 41566, Republic of Korea

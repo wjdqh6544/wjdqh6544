@@ -17,10 +17,25 @@
 
 ### Tools
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJIdea&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHUB&logoColor=white"> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
-
-### BaekJoon Stats
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+      <h3>BaekJoon Stats</h3>
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdqh6544)](https://solved.ac/wjdqh6544)
-
-### GitHub Stats
+</div>
+    </td>
+    <td width="50%">
+      <div align="center">
+      <h3>GitHub Stats</h3>
+      
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdqh6544&show_icons=true&theme=radical)
+</div>
+    </td>
+  </tr>
+</table>  
+
+
+

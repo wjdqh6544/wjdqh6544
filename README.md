@@ -2,6 +2,9 @@
 
 * Undergraduate (Department of Computer Science & Engineering, Kyungpook Nat'l Univ.)
 
+
+* 필요한 것은 직접 만들어 쓰는 편.
+* 단순반복성 노가다는 귀찮습니다.
 ### Contact Me
 
 * <a href="mailto:wjdqh6544@knu.ac.kr">![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdqh6544@knu.ac.kr)</a> - wjdqh6544@knu.ac.kr

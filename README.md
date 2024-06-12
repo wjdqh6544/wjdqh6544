@@ -1,4 +1,4 @@
-## 서형철 (HyeongCheol Seo)
+## 서형철 (Seo, Hyeong-Cheol)
 
 * Undergraduate (Department of Computer Science & Engineering, Kyungpook Nat'l Univ.)
 

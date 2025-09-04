@@ -1,10 +1,16 @@
 ## 서형철 (Seo, Hyeong-Cheol)
-
-* Undergraduate (Department of Computer Science & Engineering, Kyungpook Nat'l Univ.)
-
-
 * 필요한 것은 직접 만들어 쓰는 편.
 * 단순반복성 노가다는 귀찮습니다.
+---
+### Education
+- Undergraduate / Department of Computer Science & Engineering, Kyungpook Nat'l Univ., Daegu, Republic of Korea.
+- B.S. Intern in CLODIS Lab at KNU / 2025. 08. - now
+### Activity
+- 멋쟁이사자처럼 11기 아기사자 / 2023. 03. - 2024. 01.
+- 멋쟁이사자처럼 12기 운영진 / 2024. 02. - 2025. 01.
+- 경북대학교 IT대학 컴퓨터학부 학생회 16대 시스템도서위원장 / 2024. 09. - now
+- 멋쟁이사자처럼 13기 대표 / 2025. 02. - now
+- 멋쟁이사자처럼 13기 중앙운영단 운영부 / 2025. 02. - now
 ### Contact Me
 
 * <a href="mailto:wjdqh6544@knu.ac.kr">![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdqh6544@knu.ac.kr)</a> - wjdqh6544@knu.ac.kr

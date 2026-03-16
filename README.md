@@ -1,16 +1,25 @@
 ## 서형철 (Seo, Hyeong-Cheol)
-* 필요한 것은 직접 만들어 쓰는 편.
-* 단순반복성 노가다는 귀찮습니다.
+* Undergraduate student in Computer Science & Engineering at KNU
+* Interested in Systems Security, Containerization, Virtualization, and Cloud Computing
 ---
 ### Education
-- Undergraduate / Department of Computer Science & Engineering, Kyungpook Nat'l Univ., Daegu, Republic of Korea.
-- B.S. Intern in CLODIS Lab at KNU / 2025. 08. - now
-### Activity
-- 멋쟁이사자처럼 11기 아기사자 / 2023. 03. - 2024. 01.
-- 멋쟁이사자처럼 12기 운영진 / 2024. 02. - 2025. 01.
-- 경북대학교 IT대학 컴퓨터학부 학생회 16대 시스템도서위원장 / 2024. 09. - now
-- 멋쟁이사자처럼 13기 대표 / 2025. 02. - now
-- 멋쟁이사자처럼 13기 중앙운영단 운영부 / 2025. 02. - now
+- B.S. in Computer Science & Engineering
+- Kyungpook National University, Daegu, Republic of Korea
+- Expected Graduation: Feb 2027
+
+### Current Activities
+- B.S. Intern, <a href="https://sites.google.com/view/knudiscolab/">CLODIS Lab</a>, Kyungpook National University / Aug 2025 – Present
+- 경북대학교 IT대학 컴퓨터학부 학생회 17대 시스템도서위원장 / Jan 2026 – Present
+- 멋쟁이사자처럼 14기 운영진 / Feb 2026 – Present
+
+### Past Activities
+- 멋쟁이사자처럼 11기 아기사자 / Mar 2023 – Jan 2024
+- 멋쟁이사자처럼 12기 운영진 / Feb 2024 – Jan 2025
+- 멋쟁이사자처럼 13기 대표 / Feb 2025 – Jan 2026
+- 멋쟁이사자처럼 13기 중앙운영단 운영부 / Feb 2025 – Jan 2026
+- 경북대학교 IT대학 컴퓨터학부 학생회 15대 시스템도서위원장 / Sep 2024 – Dec 2024
+- 경북대학교 IT대학 컴퓨터학부 학생회 16대 시스템도서위원장 / Jan 2025 – Dec 2025
+
 ### Contact Me
 
 * <a href="mailto:wjdqh6544@knu.ac.kr">![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdqh6544@knu.ac.kr)</a> - wjdqh6544@knu.ac.kr
@@ -22,7 +31,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=OpenJDK&logoColor=white">
 
 ### Stacks being learned
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 
 <table>
   <tr>

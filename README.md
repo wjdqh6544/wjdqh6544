@@ -8,9 +8,9 @@
 - Expected Graduation: Feb 2027
 
 ### Current Activities
-- B.S. Intern, <a href="https://sites.google.com/view/knudiscolab/">CLODIS Lab</a>, Kyungpook National University / Aug 2025 – Present
-- 경북대학교 IT대학 컴퓨터학부 학생회 17대 시스템도서위원장 / Jan 2026 – Present
-- 멋쟁이사자처럼 14기 운영진 / Feb 2026 – Present
+- B.S. Intern, <a href="https://sites.google.com/view/knudiscolab/">CLODIS Lab</a>, Kyungpook National University / Aug 2025 – Dec 2026 (Expected)
+- 경북대학교 IT대학 컴퓨터학부 학생회 17대 시스템도서위원장 / Jan 2026 – Dec 2026 (Expected)
+- 멋쟁이사자처럼 14기 운영진 / Feb 2026 – Jan 2027 (Expected)
 
 ### Past Activities
 - 멋쟁이사자처럼 11기 아기사자 / Mar 2023 – Jan 2024

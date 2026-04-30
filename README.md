@@ -2,6 +2,8 @@
 * Undergraduate student in Computer Science & Engineering at KNU
 * Interested in Systems Security, Containerization, Virtualization, and Cloud Computing
 ---
+###  Curriculum Vitae(CV): <a href="https://github.com/wjdqh6544/wjdqh6544/blob/main/CV_20260430.pdf">Click Here</a>
+
 ### Education
 - B.S. in Computer Science & Engineering
 - Kyungpook National University, Daegu, Republic of Korea

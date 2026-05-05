@@ -2,7 +2,7 @@
 * Undergraduate student in Computer Science & Engineering at KNU
 * Interested in Systems Security, Containerization, Virtualization, and Cloud Computing
 ---
-###  Curriculum Vitae(CV): <a href="[https://github.com/wjdqh6544/wjdqh6544/blob/main/CV_20260430.pdf](https://docs.google.com/viewer?url=https://github.com/wjdqh6544/wjdqh6544/blob/main/CV_20260430.pdf?raw=True)">Click Here</a>
+###  Curriculum Vitae(CV): <a href="https://docs.google.com/viewer?url=https://github.com/wjdqh6544/wjdqh6544/blob/main/CV_20260430.pdf?raw=True">Click Here</a>
 
 ### Education
 - B.S. in Computer Science & Engineering

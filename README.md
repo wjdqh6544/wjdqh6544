@@ -2,7 +2,7 @@
 * Undergraduate student in Computer Science & Engineering at KNU
 * Interested in Systems Security, Containerization, Virtualization, and Cloud Computing
 ---
-###  Curriculum Vitae(CV): <a href="https://docs.google.com/viewer?url=https://github.com/wjdqh6544/wjdqh6544/blob/main/CV_20260430.pdf?raw=True">Click Here</a>
+###  Curriculum Vitae(CV): <a href="https://docs.google.com/viewer?url=https://github.com/wjdqh6544/wjdqh6544/blob/main/CV_20260601.pdf?raw=True">Click Here</a>
 
 ### Education
 - B.S. in Computer Science & Engineering
@@ -12,7 +12,7 @@
 ### Current Activities
 - B.S. Intern, <a href="https://sites.google.com/view/knudiscolab/">CLODIS Lab</a>, Kyungpook National University / Aug 2025 – Dec 2026 (Expected)
 - 경북대학교 IT대학 컴퓨터학부 학생회 17대 시스템도서위원장 / Jan 2026 – Dec 2026 (Expected)
-- 멋쟁이사자처럼 14기 운영진 / Feb 2026 – Jan 2027 (Expected)
+- 멋쟁이사자처럼 14기 대표 / Feb 2026 – Jan 2027 (Expected)
 
 ### Past Activities
 - 멋쟁이사자처럼 11기 아기사자 / Mar 2023 – Jan 2024

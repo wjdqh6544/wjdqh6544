@@ -1,6 +1,6 @@
 ## 서형철 (Seo, Hyeong-Cheol)
 * Undergraduate student in Computer Science & Engineering at KNU
-* Interested in Systems Security, Containerization, Virtualization, and Cloud Computing
+* Interested in Systems Security, Vulnerability Detection, Containerization
 ---
 ###  Curriculum Vitae(CV): <a href="https://docs.google.com/viewer?url=https://github.com/wjdqh6544/wjdqh6544/blob/main/CV.pdf?raw=True">Click Here</a>
 
